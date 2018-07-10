@@ -1,0 +1,5 @@
+platform/msvc2008
+!platform/msvc2008/raytracer.sln
+!platform/msvc2008/projects/libraytracer.vcxproj
+!platform/msvc2008/projects/raytracer.vcxproj
+demo
